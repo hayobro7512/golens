@@ -1,0 +1,1 @@
+{"name":"golens","version":"0.1.0","description":"Make non-editable web text readable to Superhuman Go agents","bin":{"golens":"create.js"},"scripts":{"test":"node test/test.js"},"license":"MIT"}
