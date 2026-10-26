@@ -1,5 +1,7 @@
 # GoLens
 
+🥈 **2nd place** at the Superhuman/Grammarly-hosted hackathon.
+
 **Make any web page's text readable to a Superhuman Go agent.** Go's "While writing" agents underline text, but only inside editable fields. Terms, price lists, policies, banners and product pages are not editable, so Go ignores them. GoLens fixes that with a small content script, and scaffolds the extension and agent for you.
 
 Built for Sleuth ([hayobro7512/sleuth](https://github.com/hayobro7512/sleuth)), which uses it to underline pressure tactics on checkout pages.
